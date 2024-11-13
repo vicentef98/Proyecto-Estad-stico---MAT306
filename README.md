@@ -8,7 +8,7 @@
 </br>
 
 
-# MAT283 - Laboratorio de Modelación
+# MAT306 - Proyecto Estadístico
 
 ## Portafolio Personal
 
